@@ -2,4 +2,5 @@ Hello welcome to Git !!
 
 Have a good Day - Everyone! - Welcome Everyone
 
-I am in Master Branch
+I have features of Master Branch and in Feature branch
+
